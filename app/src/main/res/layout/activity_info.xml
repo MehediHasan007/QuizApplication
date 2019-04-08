@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0FFDB"
+    android:orientation="vertical"
+    tools:context=".InfoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/softwareButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/software_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/hardwareButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hardware_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/motherboardButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/motherboard_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/cpuButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cpu_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/ramButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ram_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/romButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rom_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/memoryButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/memory_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/cacheButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cache_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/powerButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/power_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/videocardButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/videocard_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/harddriveButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/harddrive_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/cardreaderButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cardreader_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/monitorButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/monitor_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/keyboardButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/keyboard_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/mouseButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mouse_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/printerButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/printer_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/modemButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/modem_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/routerButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/router_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/firewallButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/firewall_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/speakerButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/speaker_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/opticalButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/optical_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/externalButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/external_button"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</ScrollView>

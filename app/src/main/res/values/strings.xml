@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Quiz on computer Hard. and Sof. info</string>
+
+    <string name="button1">Computer Software and Hardware info</string>
+    <string name="button2">Quiz</string>
+    <string name="about_text">
+        This is an informative app based on computer hardwares and softwares.\n\n
+        It is an user friendly application. By using this app, user can learn about computer hardwares and softwares.
+        User can also develop their skills by using the quiz part of this app.\n\n
+        Developed by:\n Md. Mehedi Hasan,\n Department of CSTE-09,NSTU.\n and \n Md. Likhon Mia,\n Department of CSTE-09,NSTU.\n
+    </string>
+
+    <string name="cpu_button">CPU</string>
+    <string name="motherboard_button">Motherboard</string>
+    <string name="ram_button">RAM</string>
+    <string name="rom_button">ROM</string>
+    <string name="power_button">Power Supply</string>
+    <string name="videocard_button">Video Card</string>
+    <string name="hardware_button">Hardware</string>
+    <string name="software_button">Software</string>
+    <string name="harddrive_button">Hard Drive</string>
+    <string name="cardreader_button">Card Reader</string>
+    <string name="monitor_button">Monitor</string>
+    <string name="keyboard_button">Keyboard</string>
+    <string name="mouse_button">Mouse</string>
+    <string name="printer_button">Printer</string>
+    <string name="modem_button">Modem</string>
+    <string name="router_button">Router</string>
+    <string name="firewall_button">Firewall</string>
+    <string name="speaker_button">Speaker</string>
+    <string name="optical_button">Optical Drive</string>
+    <string name="external_button">External Hard Drive</string>
+    <string name="memory_button">Memory</string>
+    <string name="cache_button">Cache Memory</string>
+
+    <string name="cache_text">
+        Cache memory is a very high speed semiconductor memory which can speed up the CPU. It acts as a buffer between the CPU and the main memory. It is used to hold those parts of data and program which are most frequently used by the CPU. The parts of data and programs are transferred from the disk to cache memory by the operating system, from where the CPU can access them.\n\n
+        Advantages\n\n
+        The advantages of cache memory are as follows −\n\n
+        1. Cache memory is faster than main memory.\n\n
+        2 It consumes less access time as compared to main memory.\n\n
+        3.It stores the program that can be executed within a short period of time.\n\n
+        4. It stores data for temporary use.\n\n
+        Disadvantages\n\n
+        The disadvantages of cache memory are as follows −\n\n
+        Cache memory has limited capacity. \n\n
+        It is very expensive.\n\n
+    </string>
+
+    <string name="memory_text">
+        A memory is just like a human brain. It is used to store data and instructions. Computer memory is the storage space in the computer, where data is to be processed and instructions required for processing are stored.\n\n
+        The memory is divided into large number of small parts called cells. Each location or cell has a unique address, which varies from zero to memory size minus one. For example, if the computer has 64k words, then this memory unit has 64 * 1024 = 65536 memory locations. The address of these locations varies from 0 to 65535.\n\n
+        Memory is primarily of three types −\n\n
+        1.Cache Memory\n\n
+        2.Primary Memory/Main Memory\n\n
+        3.Secondary Memory\n\n
+
+    </string>
+
+    <string name="external_text">
+        An external hard drive is a portable storage device that can be attached to a computer through a USB or FireWire connection, or wirelessly.\n\n
+        External hard drives typically have high storage capacities and are often used to back up computers or serve as a network drive.\n\n
+    </string>
+
+    <string name="optical_text">
+        An Optical Drive refers to a computer system that allows users to use DVDs, CDs and Blu-ray optical drives. The Drive contains some lenses that project electromagnetic waves that are responsible for reading and writing data on optical discs.\n\n
+        Optical drives are integral parts of electronics devices such as VCD players, CD players, Blu-ray players, DVD players, and certain video games consoles such as Microsoft Xbox one, Sony PlayStation 2,3,4 and Nintendo Wii U.\n\n
+        Nowadays Optical drives are become less common due to the revolution of better data management systems and storage devices.\n\n
+        Some optical Drives such as the CD writer drive, CD ROM drive, and combo DVD-ROM/CD-RW are longer manufactured or supported by most PC manufacturing companies. DVDs have a storage capacity of 4.7GB and can be used to store data for various uses.
+    </string>
+
+    <string name="speaker_text">
+        Computer speakers, or multimedia speakers, are speakers sold for use with computers, although usually capable of other audio uses, e.g. for an MP3 player.\n\n
+        Most such speakers have an internal amplifier and consequently require a power source, which may be by a mains power supply often via an AC adapter, batteries, or a USB port (able to supply no more than 2.5W DC, 500mA at 5V).\n\n
+        The signal input connector is often a 3.5 mm jack plug (usually color-coded lime green per the PC 99 standard); RCA connectors are sometimes used, and a USB port may supply both signal and power (requiring additional circuitry, and only suitable for use with a computer).
+        Battery-powered wireless Bluetooth speakers require no connections at all. Most computers have speakers of low power and quality built in; when external speakers are connected they disable the built-in speakers. Altec Lansing claims to have created the computer speaker market in 1990.\n\n
+        Computer speakers range widely in quality and in price. Computer speakers sometimes packaged with computer systems are small, plastic, and have mediocre sound quality. Some computer speakers have equalization features such as bass and treble controls.\n\n
+        More sophisticated computer speakers can have a subwoofer unit, to enhance bass output. The larger subwoofer enclosure usually contains the amplifiers for the subwoofer and the left and right speakers.\n\n
+    </string>
+
+    <string name="firewall_text">
+        A firewall is a network security system designed to prevent unauthorized access to or from a private network. Firewalls can be implemented as both hardware and software, or a combination of both.\n\n
+        Network firewalls are frequently used to prevent unauthorized Internet users from accessing private networks connected to the Internet, especially intranets. All messages entering or leaving the intranet pass through the firewall, which examines each message and blocks those that do not meet the specified security criteria.\n\n
+        Firewalls can be either hardware or software but the ideal configuration will consist of both. In addition to limiting access to your computer and network, a firewall is also useful for allowing remote access to a private network through secure authentication certificates and logins.\n\n
+        Hardware firewalls can be purchased as a stand-alone product but are typically found in broadband routers, and should be considered an important part of your system security and network set-up. Most hardware firewalls will have a minimum of four network ports to connect other computers, but for larger networks, a business networking firewall solution is available.
+    </string>
+
+    <string name="router_text">
+        A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork until it reaches its destination node.\n\n
+        A router is connected to two or more data lines from different networks.When a data packet comes in on one of the lines, the router reads the network address information in the packet to determine the ultimate destination. Then, using information in its routing table or routing policy, it directs the packet to the next network on its journey.\n\n
+        The most familiar type of routers are home and small office routers that simply forward IP packets between the home computers and the Internet. An example of a router would be the owner's cable or DSL router, which connects to the Internet through an Internet service provider (ISP).\n\n
+        More sophisticated routers, such as enterprise routers, connect large business or ISP networks up to the powerful core routers that forward data at high speed along the optical fiber lines of the Internet backbone. Though routers are typically dedicated hardware devices, software-based routers also exist.\n\n
+    </string>
+
+    <string name="modem_text">
+        A modem (abbreviation of modulator-demodulator) or a broadband modem is a hardware device that converts data so that it can be transmitted from computer to computer over telephone wires. The goal is to produce a signal that can be transmitted easily and decoded to reproduce the original digital data. Modems can be used with any means of transmitting analog signals, from light-emitting diodes to radio.\n\n
+        A common type of modem is one that turns the digital data of a computer into modulated electrical signal for transmission over telephone lines and demodulated by another modem at the receiver side to recover the digital data.\n\n
+        Modems are generally classified by the maximum amount of data they can send in a given unit of time, usually expressed in bits per second (symbol bit(s), sometimes abbreviated "bps"), or bytes per second (symbol B(s)). Modems can also be classified by their symbol rate, measured in baud.\n\n
+        The baud unit denotes symbols per second, or the number of times per second the modem sends a new signal. For example, the ITU V.21 standard used audio frequency-shift keying with two possible frequencies, corresponding to two distinct symbols (or one bit per symbol), to carry 300 bits per second using 300 baud.\n\n
+        By contrast, the original ITU V.22 standard, which could transmit and receive four distinct symbols (two bits per symbol), transmitted 1,200 bits by sending 600 symbols per second (600 baud) using phase-shift keying.
+    </string>
+
+    <string name="printer_text">
+        A printer is a device that accepts text and graphic output from a computer and transfers the information to paper, usually to standard size sheets of paper. Printers vary in size, speed, sophistication, and cost. In general, more expensive printers are used for higher-resolution color printing.\n\n
+        Personal computer printers can be distinguished as impact or non-impact printers. Early impact printers worked something like an automatic typewriter, with a key striking an inked impression on paper for each printed character. The dot-matrix printer was a popular low-cost personal computer printer.\n\n
+        It is an impact printer that strikes the paper a line at a time. The best-known non-impact printers are the inkjet printer, of which several makes of low-cost color printers are an example, and the laser printer. The inkjet sprays ink from an ink cartridge at very close range to the paper as it rolls by.
+        The laser printer uses a laser beam reflected from a mirror to attract ink (called toner ) to selected paper areas as a sheet rolls over a drum.\n\n
+    </string>
+
+    <string name="mouse_text">
+        A computer mouse (plural: mice) is an input device that is most often used with a personal computer. Moving a mouse along a flat surface can move the on-screen cursor to different items on the screen. Items can be moved or selected by pressing the mouse buttons (called clicking).Today mice have two buttons, the left button and right button, with a scroll wheel in between the two.\n\n
+        It is called a computer mouse because of the wire that connects the mouse to the computer. The people who designed it thought that it looked like the tail on a mouse. Today, many computer mice use wireless technology and have no wire.\n\n
+    </string>
+
+    <string name="keyboard_text">
+        A computer keyboard is an input device that allows a person to enter letters, numbers, and other symbols (these are called characters) into a computer. It is one of the most used input devices for computers. Using a keyboard to enter lots of data is called typing.\n\n
+        A keyboard contains many mechanical switches or push-buttons called "keys". When one of these are pushed, an electrical circuit is closed, and the keyboard sends a signal to the computer that tells it what letter, number or symbol it would like to be shown on the screen.
+        The computer CPU then shows the character on the screen, usually at the place where the cursor is. Besides entering characters, computer keyboards also have keys that change the symbol (such as shift or caps lock) or give the computer special commands (such as the arrow keys, CTRL and ALT).
+        Different computer operating systems use different special keys, or use them differently. Special commands can also be activated through a combination of keys (such as Ctrl + V on Windows to paste copied content).\n\n
+        A keyboard can be joined to a computer using a wire, but can also be wireless (like those that use Bluetooth). Most 21st century keyboards that use wires connect to a USB port on the computer, but older ones use a less versatile DIN connector port.\n\n
+        There are different types of keyboards. They can be based on the way the keys work; for example, laptops have keys that don't move a lot, because the keyboard has to be very thin in order to fit inside the laptop.
+        On the other hand, video gamers like keyboards with keys that move a lot, so that they feel if the key works and the game is working. In between, an ergonomic keyboard is made to be easier for people to use, without hurting their hands or arms. Most computer keyboards have the keys in six rows, but some laptops use only five or even four rows to save space.\n\n
+    </string>
+
+    <string name="monitor_text">
+        A computer monitor is an electronic device that shows pictures for computers. Monitors often look similar to televisions. The main difference between a monitor and a television is that a monitor does not have a television tuner to change channels.
+        Monitors often have higher display resolution than televisions. A high display resolution makes it easier to see smaller letters and fine graphics.\n\n
+        There are three types of computer displays:\n\n
+        1.The CRT monitor. These are big and heavy and use a lot of desk space and electricity. It is the oldest technology used by monitors and is based on the cathode ray tube technology that was developed for television. Monitors are made with better parts which give a higher display resolution and picture sharpness than a television. This type of monitor is no longer popular.\n\n
+        2.The LCD monitor, the most common kind of flat panel display. It is a newer technology than CRT. LCD monitors use much less desk space, are lightweight and use less electricity than CRT. They have been used for many years in the screens of laptop and notebook computers. They also work as touch screens in tablet computers, mobile phones, and other handheld technologies.\n\n
+        3.An LED Monitor (short for Light Emitting Diode) or LED display is an LCD Monitor that uses light emitting diodes for back lighting. The first LCD Monitors used cold cathode fluorescent lamps instead of LEDs to illuminate the screen.\n\n
+        In the early 21st century the price of video projectors has fallen and they are now used in many places to show large images. These use various technologies to make the image including LCD - Liquid crystal display and DLP - Digital light processing which uses very small mirrors to direct the light.\n\n
+    </string>
+
+    <string name="cardreader_text">
+        A card reader is a data input device that reads data from a card-shaped storage medium. The first were punched card readers, which read the paper or cardboard punched cards that were used during the first several decades of the computer industry to store information and programs for computer systems.\n\n
+        Modern card readers are electronic devices that can read plastic cards embedded with either a barcode, magnetic strip, computer chip or another storage medium.\n\n
+        A memory card reader is a device used for communication with a smart card or a memory card. A magnetic card reader is a device used to read magnetic stripe cards, such as credit cards.A business card reader is a device used to scan and electronically save printed business cards.
+    </string>
+
+    <string name="harddrive_text">
+        The hard disk drive is the main, and usually largest, data storage hardware device in a computer. The operating system, software titles, and most other files are stored in the hard disk drive.\n\n
+        The hard drive is sometimes referred to as the "C drive" due to the fact that Microsoft Windows, by default, designates the "C" drive letter to the primary partition on the primary hard drive in a computer.\n\n
+        While this is not a technically correct term to use, it is still common. For example, some computers have multiple drive letters (e.g,. C, D, and E) representing areas across one or more hard drives. The hard disk drive also goes by the name HDD (its abbreviation), hard drive, hard disk, fixed drive, fixed disk, and fixed disk drive.
+    </string>
+
+    <string name="software_text">
+        Software is a program that enables a computer to perform a specific task, as opposed to the physical components of the system (hardware).\n\n
+        This includes application software such as a word processor, which enables a user to perform a task, and system software such as an operating system, which enables other software to run properly, by interfacing with hardware and with other software.\n\n
+        Practical computer systems divide software into three major classes: system software, programming software and application software, although the distinction is arbitrary, and often blurred.\n\n
+        Computer software has to be loaded into the computer's storage (such as a hard drive, memory, or RAM).\n\n
+        Once the software is loaded, the computer is able to execute the software.Computers operate by executing the computer program.\n\n
+        This involves passing instructions from the application software, through the system software, to the hardware which ultimately receives the instruction as machine code.\n\n
+        Each instruction causes the computer to carry out an operation- moving data, carrying out a computation, or altering the control flow of instructions.
+    </string>
+
+    <string name="hardware_text">
+        Computer hardware is the collection of physical parts of a computer system. This includes the computer case, monitor, keyboard, and mouse. It also includes all the parts inside the computer case, such as the hard disk drive, motherboard, video card, and many others. Computer hardware is what you can physically touch.\n\n
+        Some hardware components are easy to recognize, such as the computer case, keyboard, and monitor. However, there are many different types of hardware components. In this lesson, you will learn how to recognize the different components and what they do.
+    </string>
+
+    <string name="videocard_text">
+        A video card (also called a display card, graphics card, display adapter or graphics adapter) is an expansion card which generates a feed of output images to a display (such as a computer monitor).\n\n
+        Frequently, these are advertised as discrete or dedicated graphics cards, emphasizing the distinction between these and integrated graphics. At the core of both is the graphics processing unit (GPU), which is the main part that does the actual computations, but should not be confused as the video card as a whole, although "GPU" is often used to refer to video cards.\n\n
+        A video card is a PC component that is used to enhance the quality of images showed on a display. It is attached to the motherboard and controls and calculates an image's appearance on the screen.\n\n
+        The video card is an intermediate device that accelerates the video throughput.Videos cards are also known as graphics cards, video adapters, display cards, graphic adapters and graphic accelerators.
+
+    </string>
+
+    <string name="power_text">
+        A power supply unit (or PSU) converts mains AC to low-voltage regulated DC power for the internal components of a computer.\n\n  Modern personal computers universally use switched-mode power supplies.\n\n  Some power supplies have a manual switch for selecting input voltage, while others automatically adapt to the mains voltage.\n\n
+        Most modern desktop personal computer power supplies conform to the ATX specification, which includes form factor and voltage tolerances.\n\n  While an ATX power supply is connected to the mains supply, it always provides a 5 Volt standby (5VSB) voltage so that the standby functions on the computer and certain peripherals are powered.\n\n
+        ATX power supplies are turned on and off by a signal from the motherboard. They also provide a signal to the motherboard to indicate when the DC voltages are in spec, so that the computer is able to safely power up and boot.\n\n  The most recent ATX PSU standard is version 2.31 as of mid-2008.
+    </string>
+
+    <string name="rom_text">
+        Read-only memory (ROM) is a type of storage medium that permanently stores data on personal computers (PCs) and other electronic devices.\n\n It contains the programming needed to start a PC, which is essential for boot-up; it performs major input/output tasks and holds programs or software instructions.\n\n
+        Because ROM is read-only, it cannot be changed; it is permanent and non-volatile, meaning it also holds its memory even when power is removed. By contrast, random access memory (RAM) is volatile; it is lost when power is removed.\n\n
+        There are numerous ROM chips located on the motherboard and a few on expansion boards.\n\n The chips are essential for the basic input/output system (BIOS), boot up, reading and writing to peripheral devices, basic data management and the software for basic processes for certain utilities.
+    </string>
+
+    <string name="cpu_text">
+        The central processing unit (CPU) is the unit which performs most of the processing inside a computer.\n\n
+        The CPU is the heart and brain of a computer.It receives data input, executes instructions, and processes information.\n\n
+        It communicates with input/output (I/O) devices, which send and receive data to and from the CPU.\n\n
+        Additionally, the CPU has an internal bus for communication with the internal cache memory, called the backside bus.\n\n
+        The main bus for data transfer to and from the CPU, memory, chipset, and AGP socket is called the front-side bus.\n\n
+        To control instructions and data flow to and from other parts of the computer, the CPU relies heavily
+        on a chipset, which is a group of microchips located on the motherboard.\n\n
+        The CPU has two components:\n
+          1.Control Unit: extracts instructions from memory and decodes and executes them.\n\n
+          2.Arithmetic Logic Unit (ALU): handles arithmetic and logical operations.\n\n
+        To function properly, the CPU relies on the system clock, memory, secondary storage, and data and address buses.\n\n
+        This term is also known as a central processor, microprocessor or chip.\n
+    </string>
+
+    <string name="motherboard_text">
+        A motherboard is the main printed circuit board (PCB) in a computer.\n\n
+        The motherboard is a computer’s central communications backbone connectivity point,through which all components and external peripherals connect.\n\n
+        The large PCB of a motherboard may include 6-14 layers of fiberglass, copper connecting traces and copper planes for power and signal isolation. Additional components can be added to a motherboard through its expansion slots.\n\n
+        These may include processor sockets, DIMM, HTX, PCI, PCIe and M.2 slots as well as power supply connections.\n\n Typically motherboards offer additional connectivity through a Southbridge chip such as PCI, SATA, Thunderbolt,
+        USB and more.\n\nCPU to RAM and PCIe are generally connected through point-to-point interconnects such as hypertransport (HT), quick path interconnect (QPI) or Ultrapath interconnect (UPI).\n\nOften,choosing a motherboard determines many of the features a desktop will have.\n\n
+        The most common motherboard design in desktop computers today is ATX, an Intel improvement on the AT design by IBM.\n\nOther form factors include extended ATX mini-ATX, microATX, BTX, microBTX mini ITX, micro ITX and nano ITX.
+    </string>
+
+    <string name="ram_text">
+        RAM (Random Access Memory) is the hardware in a computing device where the operating system (OS),application programs and data in current use are kept so they can be quickly reached by the device processor.\n\n
+        RAM is the main memory in a computer, and it is much faster to read from and write to than other kinds of storage, such as a hard disk drive (HDD), solid-state drive (SSD) or optical drive.\n\n
+        Random Access Memory is volatile. That means data is retained in RAM as long as the computer is on, but it is lost when the computer is turned off.\n\n
+        When the computer is rebooted, the OS and other files are reloaded into RAM, usually from an HDD or SSD.
+    </string>
+
+</resources>
